@@ -2,7 +2,7 @@
 <h3 align="center">Senior MERN Stack Developer | Full-Stack Engineer | 4+ Years of Experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azamali123456&label=Profile%20views&color=0e75b6&style=flat" alt="azamali123456" />
+  <img src="https://komarev.com/ghpvc/?username=azamalidev&label=Profile%20views&color=0e75b6&style=flat" alt="azamalidev" />
 </p>
 
 ---
@@ -94,11 +94,11 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamali123456&theme=dark&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamalidev&theme=dark&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamali123456&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azamali123456&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azamalidev&theme=dark)
 
 </div>
 
@@ -107,6 +107,9 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 ## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/azamalidev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/azam-ali-455402255" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
