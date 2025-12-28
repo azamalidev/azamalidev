@@ -88,21 +88,7 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6B00?style=for-the-badge&logo=cpanel&logoColor=white)
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamalidev&theme=dark&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azamalidev&theme=dark)
-
-</div>
-
----
 
 ## 🔗 Connect With Me
 
