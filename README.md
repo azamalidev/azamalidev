@@ -92,14 +92,15 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=azamali123456&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azamali123456&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azamali123456&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamali123456&theme=dark&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamali123456&theme=dark&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azamali123456&theme=dark)
+
+</div>
 
 ---
 
@@ -111,6 +112,9 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
   </a>
   <a href="https://stackoverflow.com/users/21332391/azam-ali" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@codezoon4you" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100030632889504" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
