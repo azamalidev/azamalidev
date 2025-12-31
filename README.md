@@ -52,7 +52,27 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 </div>
 
 ---
+<div align="center">
 
+### 🔥 GitHub Activity & Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamalidev&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff)
+
+### 📈 Contribution Graph
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=azamalidev&theme=github-dark&hide_border=true)](https://github.com/azamalidev)
+
+### 🏆 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+
+### 📊 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=azamalidev&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
 ## �🛠️ Technical Skills
 
 ### Frontend Technologies
