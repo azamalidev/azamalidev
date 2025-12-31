@@ -25,7 +25,55 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 
 ---
 
-## �️ Technical Skills
+## � My GitHub Profile Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>GitHub Statistics</strong><br><br>
+        ⭐ <strong>Total Stars Earned:</strong> 83<br>
+        ⏱️ <strong>Total Commits (last year):</strong> 1.9k<br>
+        🔀 <strong>Total PRs:</strong> 33<br>
+        ⚠️ <strong>Total Issues:</strong> 6<br>
+        💻 <strong>Contributed (last year):</strong> 0<br><br>
+        <img src="https://img.shields.io/badge/Grade-A--blue?style=for-the-badge" alt="Grade">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=azamalidev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&layout=compact&theme=dark" alt="Top Languages" width="400">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+<div align="center">
+
+### 🔥 GitHub Activity & Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamalidev&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff)
+
+### 📈 Contribution Graph
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=azamalidev&theme=github-dark&hide_border=true)](https://github.com/azamalidev)
+
+### 🏆 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+
+### 📊 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=azamalidev&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+## ��️ Technical Skills
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
