@@ -27,7 +27,7 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 <div align="center">
 
 ### 🔥 GitHub Activity & Statistics
-### 🔥 GitHub Activity & Statistics
+
 
 <p align="center">
   <a href="https://github.com/azamalidev">
@@ -161,10 +161,4 @@ Feel free to reach out to me for:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZK7DsRX/giphy.gif" width="400px" alt="Coding" />
-</p>
 
-<p align="center">
-  <strong>Let's build something amazing together!</strong>
-</p>
