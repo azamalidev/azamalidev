@@ -28,15 +28,24 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 
 ### 🔥 GitHub Activity & Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azamalidev&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff)
-
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azamalidev&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    width="450"
+    alt="GitHub Stats"
+  />
+</p>
 
 ### 🏆 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&layout=compact&theme=dark&hide_border=true"
+    width="420"
+    alt="Top Languages"
+  />
 </p>
+
 
 
 ### 📊 Streak Stats
