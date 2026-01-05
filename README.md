@@ -34,7 +34,10 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 
 ### 🏆 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamalidev&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff" alt="Top Languages" />
+</p>
+
 
 ### 📊 Streak Stats
 
